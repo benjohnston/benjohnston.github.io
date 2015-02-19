@@ -4,7 +4,7 @@ title: Hello, my name is Ben.
 permalink: /about/
 ---
 
-I'm a designer, developer, strategist, and problem solver with a background in engineering.
+I'm a designer, developer, strategist, and problem solver.
 
 ![Ben Johnston](/images/me.jpg)
 
@@ -12,7 +12,6 @@ I'm fascinated by the art of solving problems with design. By the iterative proc
 
 I've learned a lot over the past 9 years in the field, and have enjoyed it immensely. My goal is to never lose the curiosity; to continue to learn and grow on a daily basis, as both a human being, and as a designer building more accessible, valuable, modular, and performant systems.
 
-In addition to my work in design, I am a musician, writer, traveler, photographer, cyclist, and lover of adventure. There are few things I love more than an honest and authentic conversation over coffee.
 
 
 
