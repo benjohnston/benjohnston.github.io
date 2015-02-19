@@ -29,10 +29,10 @@ In addition to my work in design, I am a musician, writer, traveler, photographe
  
 
 ### Javascript & HTML5
- I have given [several talks (slides)](https://www.polymer-project.org/) on Web Components and [Polymer](https://www.polymer-project.org/), and am really looking forward to the future of client-side development. I'm familiar and comfortable in multiple libraries and frameworks, including (in no particular order) *React, Framer, Backbone, Lodash, jQuery, Angular, Handlebars, Node* (*mostly for tooling*), a bit of *React*, *Meteor*, *Ember* and more. I'm also a quick learner, and generally enjoy javascript.
+ I have given [several talks (slides)](https://www.polymer-project.org/) on Web Components and [Polymer](https://www.polymer-project.org/), and am really looking forward to the future of client-side development. I'm familiar and comfortable in multiple libraries and frameworks, including (in no particular order) *React, Framer, Backbone, Lodash, jQuery, Angular, Handlebars, Node*, *Meteor*, *Ember*, and so on. I'm also a quick learner, and generally enjoy javascript.
 
 ### Ruby
- *Rails, Sinatra*, templating languages such as *Haml*, and especially *Liquid*. Also, I still do quite a bit of my development and deployment tooling in Ruby, even though Gulp has largely taken over now — depending on the project.
+ *Jekyll, Rails, Sinatra*, etc. and templating languages such as *Haml*, and especially *Liquid*. I still do quite a bit of my development and deployment tooling in Ruby, even though Gulp has largely taken over now — depending on the project.
 
 ### PHP
  Particularly: *ExpressionEngine*, *Wordpress*, *Drupal* (6, 7, and 8), and Magento. While it’s not in my go-to stack anymore, PHP was my bread and butter for years.
@@ -42,7 +42,7 @@ In addition to my work in design, I am a musician, writer, traveler, photographe
  
 
 ### Git collaboration 
-And actually, SVN too, if that's your thing.
+And actually, SVN too, if that's your thing. Big fan of *gitflow*.
  
 
 ### Interdisciplinary communication
