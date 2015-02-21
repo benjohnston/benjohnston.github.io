@@ -14,7 +14,7 @@
 */
 
 body {
-  font-family: "rooney-web", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "freight-text-pro", "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 html, body {
@@ -55,6 +55,13 @@ body {
 
 .gist .lines {
   width: 100%;
+}
+
+header.about {
+  background-position: bottom left;
+  -webkit-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
 }
 
 .site-header a {

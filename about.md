@@ -1,12 +1,10 @@
 ---
-layout: page
+layout: about
 title: Hello, my name is Ben.
 permalink: /about/
 ---
 
 I'm a designer, developer, strategist, and problem solver.
-
-![Ben Johnston](/images/me.jpg)
 
 I'm fascinated by the art of solving problems with design. By the iterative process, the prototyping, and the decisions to be made. By the commonality between a mid-century household object and an application today. By the true 'how and why' behind the things we interact with, and what we can do to bring more value to the world. 
 

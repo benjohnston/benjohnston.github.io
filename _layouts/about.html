@@ -1,16 +1,22 @@
---- 
-layout: default 
----
-<!-- <img class="bg-cover" src="/images/me.jpg"> -->
-<header class="center px3 py4 white bg-mid-gray bg-cover bg-center" style="background-image: url(/images/me.jpg)">
-<div class="post">
-    
-       <!--  <header class="post-header"> -->
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class="{% if site.animated %}animated fade-in-down{% endif %}">
+  <div class="site-wrap">
+    {% include header.html %}
+    <header class="about center white px3 py4 mt2"
+  style="background-image: url(/images/me.jpg)">
+  <h1 class="h2">Hello, my name is Ben.</h1>
 
-            <h1 class="h2">{{ page.title }}</h1>
-       
-        <article class="post-content">
-            {{ content }}
-        </article>
-</div>
- </header>
+</header>
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>
