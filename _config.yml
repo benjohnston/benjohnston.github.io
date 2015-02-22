@@ -1,41 +1,42 @@
-# Site settings
-title:       Ben Johnston
-email:       ben.e.johnston@gmail.com
-author:      Ben Johnston
-description: "Designer, Engineer. Based in California, available around the globe."
-baseurl:     ""
-url:         "http://ben-johnston.com"
+# Title, decription, tagline and URL for your site
+# Can be used in your theme by calling 'site.title' and so on
+title: Ben Johnston
+description: "Designer, developer, strategist, and problem solver."
+tagline: "Designer, developer, strategist, and problem solver."
+author: Ben Johnston
 
-# Google analytics
-google_analytics:
+url: localhost:4000
 
-# Optional features
-animated:           true
-show_related_posts: true
-show_post_footers:  true
-show_social_icons:  true
+# Used so Jekyll outputs the site correctly so Gulp can do what it wants
+source: src
+destination: serve
 
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
+# Same as the title etc for your site but can instead be
+# called by using 'site.author.name' and so on
 
-# Social icons
-github_username: benjohnston
-stackoverflow_id:
-twitter_username: ben_ej
-google_plus_id: 
-linkedin_username:
-bitcoin_url:
-paypal_url:
-flattr_button:
+# general setting for Jekyll
+googleAnalytics: UA-XXXXX-X
 
-# Build settings
-markdown:     kramdown
+# _config.build.yml overwrites these options when you run `gulp build`
+# Enables future posts (posts with dates in the future) and drafts
+future: true
+show_drafts: true
+# Disables the more accurate related posts for faster generating of the site
+lsi: false
+# Only make the last 10 posts so generating isn't slow
+limit_posts: 10
+
+# Permalink structure and pagination options
+relative_permalinks: true
+permalink: none
+paginate: 10
+paginate_path: 'page:num'
+excerpt_separator: '<!--more-->'
+
+# Markdown library
+markdown: redcarpet
+# Markdown library options
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     3
-sass:
-  compressed: true
-gems:
-  - jekyll-sitemap
+  extensions: ['no_intra_emphasis', 'tables', 'fenced_code_blocks', 'autolink', 'smart',
+              'strikethrough', 'superscript', 'underline', 'highlight', 'footnotes']
+highlighter: true
