@@ -11,7 +11,7 @@ I'm fascinated by the art of solving problems with design. By the iterative proc
 I've learned a lot over the past 9 years in the field, and have enjoyed it immensely. My goal is to never lose the curiosity; to continue to learn and grow on a daily basis, as both a human being, and as a designer building more accessible, valuable, modular, and performant systems.
 
 
-
+<x-spotify uri="spotify:track:4bz7uB4edifWKJXSDxwHcs"></x-spotify>
 
 
 ### Product Design & Strategy  
