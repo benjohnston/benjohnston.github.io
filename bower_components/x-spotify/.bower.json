@@ -1,0 +1,34 @@
+{
+  "name": "x-spotify",
+  "version": "0.1.1",
+  "description": "spotify embed element",
+  "authors": [
+    "Ayhan Kuru"
+  ],
+  "license": "MIT",
+  "main": "src/x-spotify.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "platform": "Polymer/platform#~0.2.0",
+    "polymer": "Polymer/polymer#~0.2.0"
+  },
+  "homepage": "https://github.com/cobaimelan/x-spotify",
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.1",
+    "commit": "c44a31cd7f8369f7d8854b5054e91161d95239b7"
+  },
+  "_source": "git://github.com/cobaimelan/x-spotify.git",
+  "_target": "~0.1.1",
+  "_originalSource": "x-spotify",
+  "_direct": true
+}
