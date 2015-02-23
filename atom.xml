@@ -4,7 +4,7 @@
  <title>Ben Johnston</title>
  <link href="http://ben-johnston.com/atom.xml" rel="self"/>
  <link href="http://ben-johnston.com/"/>
- <updated>2015-02-23T14:15:38-08:00</updated>
+ <updated>2015-02-23T15:35:08-08:00</updated>
  <id>http://ben-johnston.com</id>
  <author>
    <name></name>
@@ -86,13 +86,16 @@ you know that ship has already sailed. Unfortunately for Paul and Linda, the ban
    <link href="http://ben-johnston.com/projects/picture-your-prosperity.html"/>
    <updated>2014-06-08T04:21:29-07:00</updated>
    <id>http://ben-johnston.com/projects/picture-your-prosperity</id>
-   <content type="html">&lt;h4 id=&quot;picture-your-prosperity&quot;&gt;Picture Your Prosperity&lt;/h4&gt;
-&lt;p class=&quot;sm-col sm-col-6 md-col-5 lg-col-4 meta-small&quot;&gt;— Ecommerce&lt;br /&gt;
- — User Research&lt;br /&gt;
- — UX Design  &lt;br /&gt;
- — Web Development  &lt;/p&gt;
+   <content type="html">&lt;h4 class=&quot;sm-col sm-col-6 md-col-5 lg-col-4&quot; id=&quot;picture-your-prosperity&quot;&gt;Picture Your Prosperity&lt;/h4&gt;
 
 &lt;p class=&quot;sm-col sm-col-6 md-col-7 lg-col-8&quot;&gt;Based on a hugely successful workshop, Picture Your Prosperity offers an interactive, enjoyable, motivating plan for women who want to take control of their finances and feel secure about the things that matter most to them.&lt;/p&gt;
+
+&lt;ul class=&quot;sm-col sm-col-6 md-col-5 lg-col-4 meta-small&quot;&gt;
+  &lt;li&gt;Ecommerce  &lt;/li&gt;
+  &lt;li&gt;User Research  &lt;/li&gt;
+  &lt;li&gt;UX Design    &lt;/li&gt;
+  &lt;li&gt;Web Development  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p class=&quot;sm-col sm-col-6 md-col-7 lg-col-8 project-sum&quot;&gt;The goal was to sell pre-orders. After many experiments and iterations — including 2 rounds of in-person user research — I designed and developed this as a custom Shopify theme. I really like how it turned out. Without the disorienting weight of typical ecommerce design, or the tackiness of information marketing, it is more like a series of tuned landing pages working together.&lt;/p&gt;
 
