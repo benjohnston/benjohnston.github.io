@@ -1958,9 +1958,6 @@ table {
   color: #7a7a7a;
   font-style: italic; }
 
-.project-sum {
-  float: right; }
-
 .pagination .button {
   font-size: 1rem;
   font-weight: 300;
@@ -2200,3 +2197,16 @@ Copyright (c) 2014 Daniel Eden
 .fade-in-down {
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown; }
+
+#picture-your-prosperity img {
+  border: 1rem solid #16BD92; }
+
+.project-sum {
+  float: right; }
+
+.post-content img {
+  box-sizing: border-box; }
+
+.post-content h4 {
+  font-size: 1.5rem;
+  margin-top: 0.2rem; }
