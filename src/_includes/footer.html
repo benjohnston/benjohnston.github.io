@@ -7,9 +7,13 @@
     </div>
   </div>
 </footer>
-<!-- build:js /assets/javascript/all.min.js -->
-    <script src="/assets/javascript/plugins.js"></script>
-    <!-- endbuild -->
+<script>
+  var nodes = document.querySelectorAll('[data-fitter-happier-text]');
+fitterHappierText(nodes, {
+    baseline: 16
+});
+
+</script>
 
 {% if site.google_analytics %}
 <script>

@@ -70,4 +70,4 @@ DEPENDENCIES
   classifier-reborn
   fast-stemmer
   jekyll
-  redcarpet
+  kramdown

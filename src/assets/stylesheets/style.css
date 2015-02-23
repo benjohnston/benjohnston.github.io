@@ -1950,14 +1950,16 @@ table {
 .wrap .measure {
   margin: 0 auto; }
 
-.meta, .post-meta {
-  width: auto;
-  font-size: 1rem;
+.meta, .post-meta, .meta-small {
+  font-size: .875rem;
   font-weight: 300;
   margin: 0;
-  padding: .25em 0;
+  padding-bottom: 1rem;
   color: #7a7a7a;
   font-style: italic; }
+
+.project-sum {
+  float: right; }
 
 .pagination .button {
   font-size: 1rem;

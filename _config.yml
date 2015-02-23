@@ -5,7 +5,7 @@ description: "Designer, developer, strategist, and problem solver."
 tagline: "Designer, developer, strategist, and problem solver."
 author: Ben Johnston
 
-url: localhost:4000
+url: http://ben-johnston.com
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
 source: src
@@ -25,6 +25,7 @@ show_drafts: true
 lsi: false
 # Only make the last 10 posts so generating isn't slow
 limit_posts: 10
+animation: true
 
 # Permalink structure and pagination options
 relative_permalinks: true
@@ -34,7 +35,7 @@ paginate_path: 'page:num'
 excerpt_separator: '<!--more-->'
 
 # Markdown library
-markdown: redcarpet
+markdown: kramdown
 # Markdown library options
 redcarpet:
   extensions: ['no_intra_emphasis', 'tables', 'fenced_code_blocks', 'autolink', 'smart',

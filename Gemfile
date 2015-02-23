@@ -1,6 +1,6 @@
 source "http://rubygems.org"
 
 gem 'jekyll'
-gem 'redcarpet'
+gem 'kramdown'
 gem 'classifier-reborn'
 gem 'fast-stemmer'
