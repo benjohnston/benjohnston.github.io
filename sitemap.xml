@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>ben-johnston.com/</loc>
-    <lastmod>2015-02-23T14:13:55-08:00</lastmod>
+    <loc>http://ben-johnston.com/</loc>
+    <lastmod>2015-02-23T14:15:38-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
     <url>
-      <loc>ben-johnston.com/music/susumu-yokota.html</loc>
+      <loc>http://ben-johnston.com/music/susumu-yokota.html</loc>
       
         <lastmod>2015-01-09T10:04:00-08:00</lastmod>
       
@@ -21,7 +21,7 @@
     </url>
   
     <url>
-      <loc>ben-johnston.com/music/im-more-than-a-user.html</loc>
+      <loc>http://ben-johnston.com/music/im-more-than-a-user.html</loc>
       
         <lastmod>2015-01-09T10:04:00-08:00</lastmod>
       
@@ -34,7 +34,7 @@
     </url>
   
     <url>
-      <loc>ben-johnston.com/music/ram-on.html</loc>
+      <loc>http://ben-johnston.com/music/ram-on.html</loc>
       
         <lastmod>2014-06-08T04:21:29-07:00</lastmod>
       
@@ -47,7 +47,7 @@
     </url>
   
     <url>
-      <loc>ben-johnston.com/projects/picture-your-prosperity.html</loc>
+      <loc>http://ben-johnston.com/projects/picture-your-prosperity.html</loc>
       
         <lastmod>2014-06-08T04:21:29-07:00</lastmod>
       
@@ -61,22 +61,9 @@
   
   
   <url>
-    <loc>ben-johnston.com/404.html</loc>
+    <loc>http://ben-johnston.com/404.html</loc>
     
-      <lastmod>2015-02-23T14:13:55-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>ben-johnston.com/about/</loc>
-    
-      <lastmod>2015-02-23T14:13:55-08:00</lastmod>
+      <lastmod>2015-02-23T14:15:38-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -87,22 +74,9 @@
   </url>
   
   <url>
-    <loc>ben-johnston.com/atom.xml</loc>
+    <loc>http://ben-johnston.com/about/</loc>
     
-      <lastmod>2015-02-23T14:13:55-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>ben-johnston.com/blog.html</loc>
-    
-      <lastmod>2015-02-23T14:13:55-08:00</lastmod>
+      <lastmod>2015-02-23T14:15:38-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -113,22 +87,9 @@
   </url>
   
   <url>
-    <loc>ben-johnston.com/contact/</loc>
+    <loc>http://ben-johnston.com/atom.xml</loc>
     
-      <lastmod>2015-02-23T14:13:55-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>ben-johnston.com/feed.xml</loc>
-    
-      <lastmod>2015-02-23T14:13:55-08:00</lastmod>
+      <lastmod>2015-02-23T14:15:38-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -139,22 +100,9 @@
   </url>
   
   <url>
-    <loc>ben-johnston.com/index.html</loc>
+    <loc>http://ben-johnston.com/blog.html</loc>
     
-      <lastmod>2015-02-23T14:13:55-08:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>ben-johnston.com/projects/</loc>
-    
-      <lastmod>2015-02-23T14:13:55-08:00</lastmod>
+      <lastmod>2015-02-23T14:15:38-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -165,9 +113,61 @@
   </url>
   
   <url>
-    <loc>ben-johnston.com/sitemap.xml</loc>
+    <loc>http://ben-johnston.com/contact/</loc>
     
-      <lastmod>2015-02-23T14:13:55-08:00</lastmod>
+      <lastmod>2015-02-23T14:15:38-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://ben-johnston.com/feed.xml</loc>
+    
+      <lastmod>2015-02-23T14:15:38-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://ben-johnston.com/index.html</loc>
+    
+      <lastmod>2015-02-23T14:15:38-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://ben-johnston.com/projects/</loc>
+    
+      <lastmod>2015-02-23T14:15:38-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://ben-johnston.com/sitemap.xml</loc>
+    
+      <lastmod>2015-02-23T14:15:38-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
