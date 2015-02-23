@@ -4,7 +4,7 @@
  <title>Ben Johnston</title>
  <link href="benjohnston.github.io/atom.xml" rel="self"/>
  <link href="benjohnston.github.io/"/>
- <updated>2015-02-22T14:19:11-08:00</updated>
+ <updated>2015-02-23T12:55:30-08:00</updated>
  <id>benjohnston.github.io</id>
  <author>
    <name></name>
@@ -21,7 +21,7 @@
 
 &lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:album:6daHGcQra17Pvgnp5gEzJm&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;A lot of it revolves around ambience, but it&amp;rsquo;s WAY too exciting of a listening experience to be pigeonholed as an &amp;lsquo;ambient&amp;rsquo; album. It&amp;rsquo;s wonderfully original, but I can hear influences like Kraftwerk, Eno/Budd, Moondog, Popol Vuh, Cluster, among others from delightfully different genres or fields; I mean, track 9 even features a Joni Mitchell sample.&lt;/p&gt;
+&lt;p&gt;A lot of it revolves around ambience, but it’s WAY too exciting of a listening experience to be pigeonholed as an ‘ambient’ album. It’s wonderfully original, but I can hear influences like Kraftwerk, Eno/Budd, Moondog, Popol Vuh, Cluster, among others from delightfully different genres or fields; I mean, track 9 even features a Joni Mitchell sample.&lt;/p&gt;
 
 &lt;p&gt;I like how he downplays all kinds of super premium melodies by tucking them into chords or blending them to the background. And this same sort of juxtaposition exists in the broader concept of the album too; distinctly different shades and moods exist together within a single given song, but also between them.  &lt;/p&gt;
 
@@ -42,18 +42,22 @@
    <link href="benjohnston.github.io/music/im-more-than-a-user.html"/>
    <updated>2015-01-09T10:04:00-08:00</updated>
    <id>benjohnston.github.io/music/im-more-than-a-user</id>
-   <content type="html">&lt;h3&gt;Designing experiences for humans means looking at more than data.&lt;/h3&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;•   Research should be friendly.
+   <content type="html">&lt;h3 id=&quot;designing-experiences-for-humans-means-looking-at-more-than-data&quot;&gt;Designing experiences for humans means looking at more than data.&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;•   Research should be friendly.
 •   Research should be open and inclusive to everyone.
 •   Non judge mental, open minded
 •   Empathetic
 •   Should not include bias when planning research.
 •   Should always be a positive experience to participants
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;
+
 &lt;p&gt;Multiple choice research is excellent for robots.&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;•   Humans will give you insight you weren&amp;#39;t expecting
+
+&lt;pre&gt;&lt;code&gt;•   Humans will give you insight you weren&#39;t expecting
 •   Unexpected insights wi
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+&lt;/code&gt;&lt;/pre&gt;
+</content>
  </entry>
  
  <entry>
@@ -61,22 +65,45 @@
    <link href="benjohnston.github.io/music/ram-on.html"/>
    <updated>2014-06-08T04:21:29-07:00</updated>
    <id>benjohnston.github.io/music/ram-on</id>
-   <content type="html">&lt;p&gt;There&amp;rsquo;s an elephant of insight in the evolution of RAM&amp;rsquo;s public reception. &lt;/p&gt;
+   <content type="html">&lt;p&gt;There’s an elephant of insight in the evolution of RAM’s public reception. &lt;/p&gt;
 
-&lt;p&gt;In 1971 it received almost universal disdain, or at best, indifference. The Beatles had just divorced in a high profile, emotional way. Truly objective journalism is nearly impossible on its own. In a context spiked with fandom that runs so deep it&amp;rsquo;s indistinguishable from ones identity, it&amp;rsquo;s already out the window. So when the rest of the band says things like: &lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;I feel sad about Paul&amp;rsquo;s albums &amp;hellip; I don&amp;rsquo;t think there&amp;rsquo;s one good tune on the last one, Ram &amp;hellip; he seems to be going strange.&amp;rdquo; 
+&lt;p&gt;In 1971 it received almost universal disdain, or at best, indifference. The Beatles had just divorced in a high profile, emotional way. Truly objective journalism is nearly impossible on its own. In a context spiked with fandom that runs so deep it’s indistinguishable from ones identity, it’s already out the window. So when the rest of the band says things like: 
+&amp;gt; “I feel sad about Paul’s albums … I don’t think there’s one good tune on the last one, Ram … he seems to be going strange.” 
 you know that ship has already sailed. Unfortunately for Paul and Linda, the bandwagon o the hottest ticket. &lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;p&gt;Im not an expert on the psychology of pop listenership, or band politics (although, well, possibly) so I&amp;rsquo;m going to really love reading a musicologist parse the deeper meaning here in another 20 years.&lt;/p&gt;
+&lt;p&gt;Im not an expert on the psychology of pop listenership, or band politics (although, well, possibly) so I’m going to really love reading a musicologist parse the deeper meaning here in another 20 years.&lt;/p&gt;
 
-&lt;p&gt;For now, one thing is pretty clear: if &amp;lsquo;Ram On&amp;rsquo; were never recorded, the past 15-20 years of pop would have been completely different. I would dare say even more so than if we never got Pet Sounds, et cetera. &lt;/p&gt;
+&lt;p&gt;For now, one thing is pretty clear: if ‘Ram On’ were never recorded, the past 15-20 years of pop would have been completely different. I would dare say even more so than if we never got Pet Sounds, et cetera. &lt;/p&gt;
 
-&lt;p&gt;Until we develop a creative robot to model outcomes like this by writing a million original songs we will never know whether that difference is good or bad. Regardless, there&amp;rsquo;s no shortage of quality jams in either parallel universe, and the influences this record provided (or the inverse) is totally fine with me. &lt;/p&gt;
+&lt;p&gt;Until we develop a creative robot to model outcomes like this by writing a million original songs we will never know whether that difference is good or bad. Regardless, there’s no shortage of quality jams in either parallel universe, and the influences this record provided (or the inverse) is totally fine with me. &lt;/p&gt;
 
-&lt;p&gt;More on this soon&amp;hellip;&lt;/p&gt;
+&lt;p&gt;More on this soon…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Picture Your Prosperity</title>
+   <link href="benjohnston.github.io/projects/picture-your-prosperity.html"/>
+   <updated>2014-06-08T04:21:29-07:00</updated>
+   <id>benjohnston.github.io/projects/picture-your-prosperity</id>
+   <content type="html">&lt;h4 id=&quot;picture-your-prosperity&quot;&gt;Picture Your Prosperity&lt;/h4&gt;
+&lt;p class=&quot;sm-col sm-col-6 md-col-5 lg-col-4 meta-small&quot;&gt;— Ecommerce&lt;br /&gt;
+ — User Research&lt;br /&gt;
+ — UX Design  &lt;br /&gt;
+ — Web Development  &lt;/p&gt;
+
+&lt;p class=&quot;sm-col sm-col-6 md-col-7 lg-col-8&quot;&gt;Based on a hugely successful workshop, Picture Your Prosperity offers an interactive, enjoyable, motivating plan for women who want to take control of their finances and feel secure about the things that matter most to them.&lt;/p&gt;
+
+&lt;p class=&quot;sm-col sm-col-6 md-col-7 lg-col-8 project-sum&quot;&gt;The goal was to sell pre-orders. After many experiments and iterations — including 2 rounds of in-person user research — I designed and developed this as a custom Shopify theme. I really like how it turned out. Without the disorienting weight of typical ecommerce design, or the tackiness of information marketing, it is more like a series of tuned landing pages working together.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/projects/pyp/pyp-landing.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/projects/pyp/pyp-about.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/projects/pyp/pyp-product.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/projects/pyp/pyp-product.jpeg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
 </content>
  </entry>
  

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>benjohnston.github.io/</loc>
-    <lastmod>2015-02-22T14:19:11-08:00</lastmod>
+    <lastmod>2015-02-23T12:55:30-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -46,11 +46,24 @@
       
     </url>
   
+    <url>
+      <loc>benjohnston.github.io/projects/picture-your-prosperity.html</loc>
+      
+        <lastmod>2014-06-08T04:21:29-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
   
   <url>
     <loc>benjohnston.github.io/404.html</loc>
     
-      <lastmod>2015-02-22T14:19:11-08:00</lastmod>
+      <lastmod>2015-02-23T12:55:30-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -63,7 +76,7 @@
   <url>
     <loc>benjohnston.github.io/about/</loc>
     
-      <lastmod>2015-02-22T14:19:11-08:00</lastmod>
+      <lastmod>2015-02-23T12:55:30-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -76,7 +89,20 @@
   <url>
     <loc>benjohnston.github.io/atom.xml</loc>
     
-      <lastmod>2015-02-22T14:19:11-08:00</lastmod>
+      <lastmod>2015-02-23T12:55:30-08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>benjohnston.github.io/blog.html</loc>
+    
+      <lastmod>2015-02-23T12:55:30-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -89,7 +115,7 @@
   <url>
     <loc>benjohnston.github.io/contact/</loc>
     
-      <lastmod>2015-02-22T14:19:11-08:00</lastmod>
+      <lastmod>2015-02-23T12:55:30-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -102,7 +128,7 @@
   <url>
     <loc>benjohnston.github.io/feed.xml</loc>
     
-      <lastmod>2015-02-22T14:19:11-08:00</lastmod>
+      <lastmod>2015-02-23T12:55:30-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -115,7 +141,7 @@
   <url>
     <loc>benjohnston.github.io/index.html</loc>
     
-      <lastmod>2015-02-22T14:19:11-08:00</lastmod>
+      <lastmod>2015-02-23T12:55:30-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -128,7 +154,7 @@
   <url>
     <loc>benjohnston.github.io/projects/</loc>
     
-      <lastmod>2015-02-22T14:19:11-08:00</lastmod>
+      <lastmod>2015-02-23T12:55:30-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -141,7 +167,7 @@
   <url>
     <loc>benjohnston.github.io/sitemap.xml</loc>
     
-      <lastmod>2015-02-22T14:19:11-08:00</lastmod>
+      <lastmod>2015-02-23T12:55:30-08:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
