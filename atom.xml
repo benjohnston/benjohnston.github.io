@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Ben Johnston</title>
- <link href="benjohnston.github.io/atom.xml" rel="self"/>
- <link href="benjohnston.github.io/"/>
- <updated>2015-02-23T12:55:30-08:00</updated>
- <id>benjohnston.github.io</id>
+ <link href="ben-johnston.com/atom.xml" rel="self"/>
+ <link href="ben-johnston.com/"/>
+ <updated>2015-02-23T14:13:55-08:00</updated>
+ <id>ben-johnston.com</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Susumu Yokota — Sakura</title>
-   <link href="benjohnston.github.io/music/susumu-yokota.html"/>
+   <link href="ben-johnston.com/music/susumu-yokota.html"/>
    <updated>2015-01-09T10:04:00-08:00</updated>
-   <id>benjohnston.github.io/music/susumu-yokota</id>
+   <id>ben-johnston.com/music/susumu-yokota</id>
    <content type="html">&lt;p&gt;This whole record is just heavenly. &lt;/p&gt;
 
 &lt;iframe src=&quot;https://embed.spotify.com/?uri=spotify:album:6daHGcQra17Pvgnp5gEzJm&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
@@ -39,9 +39,9 @@
  
  <entry>
    <title>I'm more than a user!</title>
-   <link href="benjohnston.github.io/music/im-more-than-a-user.html"/>
+   <link href="ben-johnston.com/music/im-more-than-a-user.html"/>
    <updated>2015-01-09T10:04:00-08:00</updated>
-   <id>benjohnston.github.io/music/im-more-than-a-user</id>
+   <id>ben-johnston.com/music/im-more-than-a-user</id>
    <content type="html">&lt;h3 id=&quot;designing-experiences-for-humans-means-looking-at-more-than-data&quot;&gt;Designing experiences for humans means looking at more than data.&lt;/h3&gt;
 
 &lt;pre&gt;&lt;code&gt;•   Research should be friendly.
@@ -62,9 +62,9 @@
  
  <entry>
    <title>Paul and Linda McCartney’s RAM</title>
-   <link href="benjohnston.github.io/music/ram-on.html"/>
+   <link href="ben-johnston.com/music/ram-on.html"/>
    <updated>2014-06-08T04:21:29-07:00</updated>
-   <id>benjohnston.github.io/music/ram-on</id>
+   <id>ben-johnston.com/music/ram-on</id>
    <content type="html">&lt;p&gt;There’s an elephant of insight in the evolution of RAM’s public reception. &lt;/p&gt;
 
 &lt;p&gt;In 1971 it received almost universal disdain, or at best, indifference. The Beatles had just divorced in a high profile, emotional way. Truly objective journalism is nearly impossible on its own. In a context spiked with fandom that runs so deep it’s indistinguishable from ones identity, it’s already out the window. So when the rest of the band says things like: 
@@ -83,9 +83,9 @@ you know that ship has already sailed. Unfortunately for Paul and Linda, the ban
  
  <entry>
    <title>Picture Your Prosperity</title>
-   <link href="benjohnston.github.io/projects/picture-your-prosperity.html"/>
+   <link href="ben-johnston.com/projects/picture-your-prosperity.html"/>
    <updated>2014-06-08T04:21:29-07:00</updated>
-   <id>benjohnston.github.io/projects/picture-your-prosperity</id>
+   <id>ben-johnston.com/projects/picture-your-prosperity</id>
    <content type="html">&lt;h4 id=&quot;picture-your-prosperity&quot;&gt;Picture Your Prosperity&lt;/h4&gt;
 &lt;p class=&quot;sm-col sm-col-6 md-col-5 lg-col-4 meta-small&quot;&gt;— Ecommerce&lt;br /&gt;
  — User Research&lt;br /&gt;
