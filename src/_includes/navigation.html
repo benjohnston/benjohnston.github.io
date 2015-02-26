@@ -2,15 +2,13 @@
 <a href="{{ site.baseurl }}/about/">Information</a>
 <a href="{{ site.baseurl }}/contact/">Contact</a>{% endcomment %}
 
-{% comment %}<ul class="navigation">{% endcomment %}
-  {% for link in site.navigation %}
-    {% assign current = nil %}
-    {% if page.url == link.url or page.layout == link.layout %}
-      {% assign current = 'current' %}
-    {% endif %}
+{% for link in site.navigation %}
+  {% assign current = nil %}
+  {% if page.url == link.url or page.layout == link.layout %}
+    {% assign current = 'current' %}
+  {% endif %}
 
-    {% comment %}<li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">{% endcomment %}
-      <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
-    {% comment %}</li>{% endcomment %}
-  {% endfor %}
-{% comment %}</ul>{% endcomment %}
+  {% comment %}<li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">{% endcomment %}
+    <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
+  {% comment %}</li>{% endcomment %}
+{% endfor %}
