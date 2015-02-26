@@ -2210,3 +2210,6 @@ Copyright (c) 2014 Daniel Eden
 .post-content h4 {
   font-size: 1.5rem;
   margin-top: 0.2rem; }
+
+#contact-me col {
+  padding: 1rem; }

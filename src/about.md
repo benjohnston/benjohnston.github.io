@@ -8,9 +8,9 @@ permalink: /about/
 
 ### I'm a designer, developer, strategist, and problem solver.
 
-I'm fascinated by the art of solving problems with design. By the iterative process, the prototyping, and the decisions to be made. By the commonality between a mid-century household object and an application today. By the true 'how and why' behind the things we interact with, and what we can do to bring more value to the world. 
+I'm fascinated by the art of solving problems with design. By the iterative process, the prototyping, and the decisions to be made. By the true 'how and why' behind the things we interact with, and what we can do to bring more value to the world. 
 
-I've learned a lot over the past 9 years in the field, and have enjoyed it immensely. My goal is to never lose the curiosity; to continue to learn and grow on a daily basis, as both a human being, and as a designer building more accessible, valuable, modular, and performant systems.  
+I've learned a lot over the past 9 years in the field, and have enjoyed it immensely. My goal is to continue to learn and grow on a daily basis. As both a human being, and as a designer building more accessible, valuable, modular, and performant systems.  
 
 ----
   

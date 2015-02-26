@@ -34,6 +34,18 @@ paginate: 10
 paginate_path: 'page:num'
 excerpt_separator: '<!--more-->'
 
+#Active nav
+
+navigation:
+- text: Projects
+  url: /
+  layout: projects
+- text: Information
+  url: /about/
+  layout: about
+- text: Contact
+  url: /contact/
+
 # Markdown library
 markdown: kramdown
 # Markdown library options
