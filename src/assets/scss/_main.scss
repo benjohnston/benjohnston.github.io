@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-  font-family: "freight-text-pro", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "freight-text-pro", Georgia, "Times New Roman", serif;
 }
 
 html, body {
@@ -44,42 +44,6 @@ body {
   width: 100%;
 }
 
-.site-header, .site-nav {
-  font-family: "futura-pt";
-  letter-spacing: .08rem;
-}
-
-.site-header a {
-  color: #FF4136;
-  font-weight: 300;
-}
-
-.site-header nav a {
-  font-size: 1rem;
-  color: #FF4136;
-}
-
-.site-header nav a:hover {
-  // color: #B10DC9;
-  opacity: 0.6;
-  border-bottom: 2px solid #FFDC00;
-}
-
-.site-nav a + a {
-  margin-left: 1em;
-}
-
-.site-nav {
-  margin: 0;
-  padding: 0;
-}
-
-.site-header a:hover,
-.posts .post a:hover .post-meta,
-.posts .post a:hover .post-title,
-.posts .post a:hover .post-summary {
-  opacity: 0.6;
-}
 
 /*
   Table styles copied from Bootstrap
@@ -169,7 +133,7 @@ table {
 .pagination,
 .button {
   font-size: 1rem;
-  font-family: 'futura-pt', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'futura-pt', Helvetica Neue, Helvetica, sans-serif;
   font-weight: 300;
   text-align: center;
 }
@@ -232,7 +196,7 @@ table {
 }
 
 form {
-  font-family: 'futura-pt', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'futura-pt', Helvetica Neue, Helvetica, sans-serif;
   font-weight: 300;
   font-size: 1rem;
 }
@@ -299,7 +263,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  font-family: "futura-pt", 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: $heading-font-family;
   font-weight: 900;
   line-height: 1.2;
   margin: 1em 0 0.5em;
@@ -454,7 +418,7 @@ svg.h2 {
     float: left;
     text-align: center;
     margin-top: 0.666em;
-    margin-bottom: 1.333em;
+    // margin-bottom: 1.333em;
   }
 
   .social-icons .left, .social-icons .right {

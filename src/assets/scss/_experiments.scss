@@ -1,0 +1,15 @@
+.site-wrap {
+    border: .4rem solid #E7E7E7;
+}
+
+@media screen and (min-width: 48em) {
+    .site-wrap {
+        border: .625rem solid #E7E7E7;
+    }
+}
+
+@media screen and (min-width: 54em) {
+    .site-wrap {
+        border: 1rem solid #E7E7E7;
+    }
+}

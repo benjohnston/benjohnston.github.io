@@ -1,0 +1,47 @@
+.site-header, .site-nav {
+  font-family: $heading-font-family;
+  // letter-spacing: .08rem;
+}
+
+.site-header a {
+  color: #FF4136;
+  font-weight: 300;
+}
+
+.site-header nav a {
+  font-size: 1rem;
+  color: #FF4136;
+}
+
+.site-header nav a:hover {
+  // color: #B10DC9;
+  opacity: 0.6;
+  border-bottom: 2px solid #FFDC00;
+}
+
+.site-nav a + a {
+  margin-left: 1em;
+}
+
+.site-nav {
+  margin: 0;
+  padding: 0;
+}
+
+.site-header a:hover,
+.posts .post a:hover .post-meta,
+.posts .post a:hover .post-title,
+.posts .post a:hover .post-summary {
+  opacity: 0.6;
+}
+
+
+a.current {
+    font-weight: bold;
+    border-bottom: 2px solid #FFDC00;
+}
+
+// .site-title {
+//     border-bottom: 2px solid #FFDC00;
+//     font-weight: bold;
+// }

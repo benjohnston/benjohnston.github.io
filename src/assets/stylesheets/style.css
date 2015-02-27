@@ -1,14 +1,3 @@
-@charset "UTF-8";
-/*
-
-  BASSCSS
-
-  Next-level CSS toolkit - http://jxnblk.github.io/basscss
-
-  Made with love by Jxnblk - ©2014 Brent Jackson
-  MIT License http://opensource.org/licenses/MIT
-
-*/
 body, button, input, select, textarea, pre {
   margin: 0; }
 
@@ -891,12 +880,12 @@ svg {
 
 /* Basscss Base Typography */
 body {
-  font-family: 'freight-text-pro', Helvetica, sans-serif;
+  font-family: 'freight-text-pro', Helvetica Neue, Helvetica, sans-serif;
   line-height: 1.5;
   font-size: 100%; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'freight-text-pro', Helvetica, sans-serif;
+  font-family: 'futura-pt', Helvetica Neue, Helvetica, sans-serif;
   font-weight: bold;
   line-height: 1.25;
   margin-top: 1em;
@@ -1812,7 +1801,7 @@ hr {
 
 /* Basscss Defaults */
 body {
-  font-family: "freight-text-pro", "PT Serif", Georgia, "Times New Roman", serif; }
+  font-family: "freight-text-pro", Georgia, "Times New Roman", serif; }
 
 html, body {
   height: 100%; }
@@ -1843,32 +1832,6 @@ body {
 
 .gist .lines {
   width: 100%; }
-
-.site-header, .site-nav {
-  font-family: "futura-pt";
-  letter-spacing: .08rem; }
-
-.site-header a {
-  color: #FF4136;
-  font-weight: 300; }
-
-.site-header nav a {
-  font-size: 1rem;
-  color: #FF4136; }
-
-.site-header nav a:hover {
-  opacity: 0.6;
-  border-bottom: 2px solid #FFDC00; }
-
-.site-nav a + a {
-  margin-left: 1em; }
-
-.site-nav {
-  margin: 0;
-  padding: 0; }
-
-.site-header a:hover, .posts .post a:hover .post-meta, .posts .post a:hover .post-title, .posts .post a:hover .post-summary {
-  opacity: 0.6; }
 
 /*
   Table styles copied from Bootstrap
@@ -1924,7 +1887,7 @@ table {
 
 .pagination, .button {
   font-size: 1rem;
-  font-family: 'futura-pt', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'futura-pt', Helvetica Neue, Helvetica, sans-serif;
   font-weight: 300;
   text-align: center; }
 
@@ -1972,7 +1935,7 @@ table {
   background-color: #999; }
 
 form {
-  font-family: 'futura-pt', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'futura-pt', Helvetica Neue, Helvetica, sans-serif;
   font-weight: 300;
   font-size: 1rem; }
 
@@ -2018,7 +1981,7 @@ blockquote footer {
   border-color: transparent; }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
-  font-family: "futura-pt", 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'futura-pt', Helvetica Neue, Helvetica, sans-serif;
   font-weight: 900;
   line-height: 1.2;
   margin: 1em 0 0.5em;
@@ -2111,8 +2074,7 @@ svg.h2 {
     width: 100%;
     float: left;
     text-align: center;
-    margin-top: 0.666em;
-    margin-bottom: 1.333em; }
+    margin-top: 0.666em; }
   .social-icons .left, .social-icons .right {
     text-align: center;
     float: none; } }
@@ -2213,3 +2175,32 @@ Copyright (c) 2014 Daniel Eden
 
 #contact-me col {
   padding: 1rem; }
+
+.site-header, .site-nav {
+  font-family: 'futura-pt', Helvetica Neue, Helvetica, sans-serif; }
+
+.site-header a {
+  color: #FF4136;
+  font-weight: 300; }
+
+.site-header nav a {
+  font-size: 1rem;
+  color: #FF4136; }
+
+.site-header nav a:hover {
+  opacity: 0.6;
+  border-bottom: 2px solid #FFDC00; }
+
+.site-nav a + a {
+  margin-left: 1em; }
+
+.site-nav {
+  margin: 0;
+  padding: 0; }
+
+.site-header a:hover, .posts .post a:hover .post-meta, .posts .post a:hover .post-title, .posts .post a:hover .post-summary {
+  opacity: 0.6; }
+
+a.current {
+  font-weight: bold;
+  border-bottom: 2px solid #FFDC00; }
