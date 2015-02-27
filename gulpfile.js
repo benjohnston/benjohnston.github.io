@@ -13,6 +13,9 @@ var browserSync = require("browser-sync");
 var merge = require("merge-stream");
 // Need a command for reloading webpages using BrowserSync
 var reload = browserSync.reload;
+// Clean out unused css rules
+var uncss = require('gulp-uncss');
+
 // And define a variable that BrowserSync uses in it"s function
 var bs;
 
@@ -87,6 +90,7 @@ gulp.task("html", ["styles"], function () {
     // Concatenate JavaScript files and preserve important comments
     .pipe($.if("*.js", $.uglify({preserveComments: "some"})))
     // Minify CSS
+
     .pipe($.if("*.css", $.minifyCss()))
     // Start cache busting the files
     .pipe($.revAll({ ignore: [".eot", ".svg", ".ttf", ".woff"] }))
