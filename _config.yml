@@ -15,7 +15,7 @@ destination: serve
 # called by using 'site.author.name' and so on
 
 # general setting for Jekyll
-googleAnalytics: UA-XXXXX-X
+googleAnalytics: UA-60001831-1
 
 # _config.build.yml overwrites these options when you run `gulp build`
 # Enables future posts (posts with dates in the future) and drafts
