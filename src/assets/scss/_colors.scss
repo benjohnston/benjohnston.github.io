@@ -2,10 +2,11 @@
 // Converted Variables
 
 $blue: #0076df !default;
+$shamrock: #56E39F !default;
 $red: #FF4136 !default;
 $green: #00cf26 !default;
 $yellow: #efcc00 !default;
-$dark-gray: #333 !default;
+$dark-gray: #304650 !default;
 $mid-gray: #777 !default;
 $light-gray: #ccc !default;
 $lighter-gray: #eee !default;
@@ -13,6 +14,8 @@ $darken-1: rgba(#000,.0625) !default;
 $darken-2: rgba(#000,.125) !default;
 $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
+$darken-0: #F7F7F7 !default;
+$charcoal: #304650 !default;
 
 // Custom Media Query Variables
 
@@ -89,6 +92,14 @@ $darken-4: rgba(#000,.5) !default;
 
 .bg-yellow {
   background-color: $yellow;
+}
+
+.bg-green {
+  background-color: $shamrock;
+}
+
+.bg-darken-0 {
+  background-color: $darken-0;
 }
 
 .bg-darken-1 {

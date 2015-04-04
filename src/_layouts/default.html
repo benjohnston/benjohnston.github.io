@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html>
-{% include head.html %}
-
-<body class="animated fade-in-down" id="{{ page.title | slugify }}">
+  {% include head.html %}
+  <body class="animated fade-in-down" id="{{ page.title | slugify }}">
     <div class="site-wrap">
-        {% include header.html %}
-
-        <div class="post p2 p-responsive wrap" role="main">
-            <div class="measure">
-                {{ content }}
-            </div>
+      {% include header.html %}
+      <div class="post p2 p-responsive wrap" role="main">
+        <div class="measure">
+          {{ content }}
         </div>
+      </div>
     </div>
-
     {% include footer.html %}
-</body>
-
+  </body>
 </html>

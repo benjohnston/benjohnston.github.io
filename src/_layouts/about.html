@@ -1,32 +1,43 @@
 <!DOCTYPE html>
 <html>
-{% include head.html %}
-<body>
-  <div class="site-wrap">
-    {% include header.html %}
-    <header class="about center white px3 py4 mt2"
-  style="background-image: url(/assets/images/bg.jpg)">
-  <h1 class="h2" data-fitter-happier-text>Hello</h1>
-
-</header>
-
-    <div class="post p2 p-responsive wrap" role="main">
-      <div class="measure">
-      <div class="clearfix">
-      <div class="sm-col sm-col-6 md-col-7 lg-col-8">
-        {{ content }}
+  {% include head.html %}
+  <body class="animated fade-in-down" id="{{ page.title | slugify }}">
+    <div class="site-wrap">
+      {% include header.html %}
+      <header class="about center white px3 py4"
+        style="background-image: url(/assets/images/bg.jpg)">
+        <h1 class="h2" data-fitter-happier-text>Hello</h1>
+      </header>
+      <div class="post p2 p-responsive wrap" role="main">
+        <div class="measure">
+          <div class="clearfix">
+            <!-- <div class="">
+              <h2>My name is Ben.</h2>
+              <h3>I'm a designer, developer, strategist, and problem solver.</h3>
+              <p>I'm fascinated by the art of solving problems with design. By the iterative process, the prototyping, and the decisions to be made. By the true 'how and why' behind the things we interact with, and what we can do to bring more value to the world. </p>
+              <p>I've learned a lot over the past 9 years in the field, and have enjoyed it immensely. My goal is to continue to learn and grow on a daily basis. As both a human being, and as a designer building more accessible, valuable, modular, and performant systems. </p>
+            </div>
+            <div class="sm-col sm-col-5 md-col-5 lg-col-4">
+              <ul class="list-reset">
+                <li>Project Inquiries: <a href="mailto:ben@ben-johnston.com" class="">Email</a></li>
+                <li>Twitter: <a href="https://twitter.com/ben_ej" class="">@ben_ej</a></li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/johnstonbenjamin" class="">Benjamin Johnston</a></li>
+                <li>Github: <a href="https://github.com/benjohnston">BenJohnston</a></li>
+              </ul>
+            </div>
+          </div> -->
+          <div class="">
+            {{ content }}
+          </div>
+          <!-- <div class="sm-col sm-col-6 md-col-5 lg-col-4">
+            <h4>Contact</h4>
+            <a href="mailto:ben.e.johnston@gmail.com">Project Inquiries</a>
+            <a href="http://twitter.com/ben_ej">Twitter</a>
+          </div> -->
         </div>
-      <div class="sm-col sm-col-6 md-col-5 lg-col-4">
-        <h4>Contact</h4>
-        <a href="mailto:ben.e.johnston@gmail.com">Project Inquiries</a>
-        <a href="http://twitter.com/ben_ej">Twitter</a>
-      </div>
-      </div>
-
       </div>
     </div>
   </div>
-
   {% include footer.html %}
 </body>
 </html>

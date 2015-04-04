@@ -1,6 +1,7 @@
 .site-header, .site-nav {
   font-family: $heading-font-family;
   letter-spacing: .08rem;
+  padding-bottom: 2.5rem;
 }
 
 // .site-header a {
@@ -10,13 +11,13 @@
 
 .site-header nav a {
   font-size: 1rem;
-  color: $blue;
+  color: $charcoal;
 }
 
 .site-header nav a:hover {
   // color: #B10DC9;
   opacity: 0.6;
-  border-bottom: 2px solid $blue;
+  border-bottom: 2px solid $shamrock;
 }
 
 .site-nav a + a {
@@ -38,12 +39,13 @@
 
 a.current {
     font-weight: bold;
-    border-bottom: 2px solid $blue;
+    border-bottom: 2px solid $shamrock;
 }
 
 .site-title {
-    border-bottom: 2px solid $blue;
+    border-bottom: 2px solid $shamrock;
     font-weight: bold;
+    color: $charcoal;
 }
 
 
